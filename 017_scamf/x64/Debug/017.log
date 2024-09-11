@@ -1,0 +1,14 @@
+﻿  017.cpp
+C:\Users\lwt02\source\repos\2024 lwt\017\017.cpp(18,13): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\lwt02\source\repos\2024 lwt\017\017.cpp(18,13):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+      C:\Users\lwt02\source\repos\2024 lwt\017\017.cpp(18,13):
+      누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+      C:\Users\lwt02\source\repos\2024 lwt\017\017.cpp(18,13):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\lwt02\source\repos\2024 lwt\017\017.cpp(29,13): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+      C:\Users\lwt02\source\repos\2024 lwt\017\017.cpp(29,13):
+      서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  
+  017.vcxproj -> C:\Users\lwt02\source\repos\2024 lwt\x64\Debug\017.exe
